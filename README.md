@@ -1,4 +1,4 @@
-# cs1102_demo
+# cs2_demo
 - Test - added a line
 
 ## Heading 2
